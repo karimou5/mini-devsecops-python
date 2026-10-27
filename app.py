@@ -1,3 +1,7 @@
+# Démo : clé d'accès codée en dur (fausse clé), Trivy doit la détecter
+AWS_ACCESS_KEY_ID = "AKIA4HJQ7ZPLR2MXW6TB"
+
+
 def calculate_average(numbers):
     """Retourne la moyenne d'une liste de nombres"""
     if not numbers:
